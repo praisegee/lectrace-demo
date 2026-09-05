@@ -1,0 +1,12 @@
+.notes/
+.docs/
+
+_site/
+.venv/
+__pycache__/
+*.pyc
+.lectrace_cache.json
+*:Zone.Identifier
+
+Assignment2*.ipynb
+assignment2*.py
