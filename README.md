@@ -1,6 +1,6 @@
 # LecTrace demo
 
-Two step-through lectures, built to show what lectrace does.
+Two step-through lectures, built to show what lectrace does. [**See it here**](https://praisegee.github.io/lectrace-demo)
 
 ## Run
 
